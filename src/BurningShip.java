@@ -1,4 +1,8 @@
-/*
+/*Baseado no código de Tom Van Cutsem, referenciado abaixo:
+
+
+
+
 Copyright (c) 2011, Tom Van Cutsem, Vrije Universiteit Brussel
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
